@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anyeling0620" alt="Anyeling0620" />
+    [![trophy](https://github-profile-trophy.vercel.app/?username=Anyeling0620)](https://github.com/ryo-ma/github-profile-trophy)
   </a>
 </p>
 
